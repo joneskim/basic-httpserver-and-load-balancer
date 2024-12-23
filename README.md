@@ -66,6 +66,10 @@ Address: IP address and port number
 
 
 
+### Resources
+https://beej.us/guide/bgnet/html/#what-is-a-socket
+
+
 
 
 
